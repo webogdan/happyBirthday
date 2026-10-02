@@ -1,0 +1,56 @@
+* {
+  font-family: 'Great Vibes', cursive;
+  color: #FFFFFF;
+  background-color: #FB95CD;
+}
+.head {
+  font-size: 40px;
+  position: absolute;
+  left: 53px;
+  top: 30px;
+}
+.leftBant {
+  position: absolute;
+  top: 70px;
+}
+.rightBant {
+  position: absolute;
+  top: 70px;
+  left: 395px;
+}
+.text1{
+  font-size: 24px;
+  width: 344px;
+  height: 146px;
+  position: absolute;
+  left: 53px;
+  top: 130px;
+}
+.text2{
+  font-size: 24px;
+  width: 339px;
+  height: 81px;
+  position: absolute;
+  left: 53px;
+  top: 300px;
+}
+button {
+  background-color: #FF6DBD;
+  border: 10px solid #FFFFFF;
+  border-radius: 30px;
+  font-size: 40px;
+  width: 343px;
+  height: 343px;
+  position: absolute;
+  left: 53px;
+  top: 450px;
+}
+.text3{
+  text-align: right;
+  font-size: 24px;
+  width: 341px;
+  height: 90px;
+  position: absolute;
+  left: 53px;
+  top: 800px;
+}
